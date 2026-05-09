@@ -15,8 +15,8 @@ ul{
     margin-left:  60%;
 }
 .searchbar{
+    width:60%;
     padding:50px;
-    width: 60%;
 }
 li{
     color:gray;
