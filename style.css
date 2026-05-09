@@ -15,8 +15,8 @@ ul{
     margin-left:  60%;
 }
 .searchbar{
-    width:60%;
-    padding:50px;
+    text-align:center;
+    padding:40px;
 }
 li{
     color:gray;
@@ -26,7 +26,10 @@ li:hover{
     color:white;
 }
 input{
-    text-align: center;
+    width:70%;
+    padding:15px;
+    border-radius:10px;
+    font-size:18px;
 }
 .box{
    border-color:black;
