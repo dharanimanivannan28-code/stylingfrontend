@@ -30,5 +30,7 @@ input{
    border-color:black;
    border-width: 2px;
    border-style: solid;
-   display:inline;
+   display:inline-block;
+   width:300px;
+   margin:20px;
 }
