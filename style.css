@@ -25,9 +25,10 @@ li:hover{
 }
 input{
     text-align: center;
-    width:50px;
 }
 .box{
-    display:inline;
-    width:
+   border-color:black;
+   border-width: 2px;
+   border-style: solid;
+   display:inline;
 }
