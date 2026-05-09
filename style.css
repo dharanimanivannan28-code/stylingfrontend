@@ -6,7 +6,7 @@ nav{
     background-color:black;
     color:white;
     width:100%;
-    padding:50px;
+    padding:30px;
 }
 h1,ul,li{
     display:inline;
@@ -16,7 +16,8 @@ ul{
 }
 .searchbar{
     text-align:center;
-    padding:4x;
+    padding:40px;
+    margin-top:20px;
 }
 li{
     color:gray;
